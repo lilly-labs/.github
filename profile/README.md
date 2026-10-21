@@ -1,0 +1,16 @@
+# Lilly Labs
+
+A one-person software studio in South Africa, run by Jean-Paul Thorne. Web apps, APIs, Cloudflare hosting and connected devices. **[lillylabs.co.za](https://lillylabs.co.za)**
+
+## Projects
+
+- **[Stage 6: Keep the Lights On](https://stage6.lillylabs.co.za)**, a cards-and-lanes defence game set during South African load-shedding.
+- **[SpendTracker](https://spendtracker.lillylabs.co.za)**, a Windows app for importing bank statements and seeing where your money goes. Downloads are in [spend-tracker-releases](https://github.com/lilly-labs/spend-tracker-releases).
+
+## Elsewhere
+
+- Earlier work, 2019 to 2023: **[Athy Labs](https://github.com/athy-org)**
+- Writing: **[buildingthingswith.net](https://buildingthingswith.net)**
+- Contact: **hello@lillylabs.co.za**
+
+The name comes from Lilly, the studio dog.
